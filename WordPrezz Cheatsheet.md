@@ -176,11 +176,11 @@ Template Post Type: post, page, product
 | Function | Description |
 | --- | --- |
 | comment\_ID() | Displays the ID of the current comment. |
-| comments\_popup\_link() | Displays <a> link to the comment popup. |
+| comments\_popup\_link() | Displays \<a> link to the comment popup. |
 | comment\_text() | Displays the text of the comment. |
 | comment\_author() | Displays the comment author name. |
 | comments\_link() | Displays a URL to the post comment form. |
-| comment\_reply\_link() | Displays an <a> link to reply to comments. |
+| comment\_reply\_link() | Displays an \<a> link to reply to comments. |
 | comment\_time() | Displays the comment publishing time. |
 | comment\_author\_link() | Displays the comment author's name as a link. |
 | comment\_author\_url() | Displays comment author URL (set when commenting). |
@@ -220,7 +220,7 @@ Template Post Type: post, page, product
 | wp\_get\_attachment\_link() | Gets the link (A tag) of the attachment or attachment page. |
 | the\_tags() | Displays links to the post tags. |
 | the\_category() | Displays post categories as links. |
-| the\_taxonomies() | Displays links (<a>) to the post terms. |
+| the\_taxonomies() | Displays links (\<a>) to the post terms. |
 | in\_category() | Checks if the post belongs to a category. |
 | sticky\_class() | Displays a "sticky" class if it is a sticky post. |
 | is\_sticky() | Checks if the post is sticky to the home page. |
@@ -700,7 +700,7 @@ if( is\_user\_logged\_in() ){
 | single\_post\_title() | Outputs/gets the title of a post page. |
 | single\_cat\_title() | Outputs/gets title of a category/tag page. |
 | body\_class() | Outputs CSS classes for the <body> tag. |
-| wp\_body\_open() | Triggers the wp\_body\_open hook (use after <body>). |
+| wp\_body\_open() | Triggers the wp\_body\_open hook (use after \<body>). |
 | wp\_head() | Triggers the wp\_head hook (use in header.php). |
 | wp\_footer() | Triggers the wp\_footer hook (use in footer.php). |
 | wp\_list\_categories() | Outputs a list of categories as links. |
@@ -719,7 +719,7 @@ if( is\_user\_logged\_in() ){
 | category\_description() | Gets category description. |
 | term\_description() | Gets term description. |
 | get\_the\_term\_list() | Outputs a list of post terms as links. |
-| get\_avatar() | Gets user avatar image (<img> tag). |
+| get\_avatar() | Gets user avatar image (\<img> tag). |
 | next\_post\_link() | Displays a link to the next most recent post. |
 | previous\_post\_link() | Displays a link to the previous most recent post. |
 | get\_post\_type\_archive\_link() | Gets the URL for the post type archive page. |
@@ -748,7 +748,7 @@ if( is\_user\_logged\_in() ){
 | untrailingslashit() | Removes trailing slash from a string. |
 | user\_trailingslashit() | Adds/removes slash based on WP permalink settings. |
 | wp\_trim\_words() | Trims text to a specified number of words. |
-| wpautop() | Converts double newlines to <p> and single to <br>. |
+| wpautop() | Converts double newlines to \<p> and single to \<br>. |
 | wptexturize() | Converts characters like (tm) to ™, etc. |
 | zeroise() | Adds leading zeros if needed (10 → 0010). |
 
