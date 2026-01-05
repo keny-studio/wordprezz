@@ -1,4 +1,4 @@
-## $${\color{red}WORDPRESS \ Cheatsheet}$$
+## $${\color{red}WordPress \ Cheat \ Sheet}$$
 
 ### Theme Headers style.css
 
