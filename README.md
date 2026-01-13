@@ -1,2 +1,2 @@
 # wordprezz
-WordPrEzz - WordPress Made Easy Or Pro
+## $${\color{red}WordPrEzz}$$ - WordPress Made Easy
