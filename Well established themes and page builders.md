@@ -1,11 +1,11 @@
 ## $${\color{red}Wordpress \ well \ established \ themes \ and \ page \ builders \ list}$$
 
-Battle-tested, widely used by agencies, freelancers and well maintained Wordpress themes and builders
+Battle-tested, well maintained, widely used by agencies, freelancers Wordpress themes and builders - free and paid
 
 
 ---
 
-# 🧱 1. All-in-One Themes (with built-in builders)
+### 🧱 1. All-in-One Themes (with built-in builders)
 
 These are **monolithic solutions** (theme + builder + components).
 
@@ -30,7 +30,7 @@ These are **monolithic solutions** (theme + builder + components).
 
 ---
 
-# ⚡ 2. Lightweight / Developer-Friendly Themes
+### ⚡ 2. Lightweight / Developer-Friendly Themes
 
 These dominate modern WP (performance + flexibility trend).
 
@@ -54,6 +54,10 @@ These dominate modern WP (performance + flexibility trend).
 * **OceanWP**
   → WooCommerce-heavy projects
 
+* ** Soledad ** 
+  → Multipurpose, Newspaper, Blog & WooCommerce
+  → Works with Elementor
+
 👉 Use when:
 
 * You care about **Core Web Vitals**
@@ -61,11 +65,11 @@ These dominate modern WP (performance + flexibility trend).
 
 ---
 
-# 🧩 3. Starter / Framework Themes (for developers)
+### 🧩 3. Starter / Framework Themes (for developers)
 
 Minimal base themes used as foundations.
 
-## 🛠️ Dev-oriented stack
+🛠️ Dev-oriented stack
 
 * **Hello Elementor**
   → Barebones (designed for Elementor)
@@ -87,11 +91,11 @@ Minimal base themes used as foundations.
 
 ---
 
-# 🎨 4. Page Builders (Theme-independent)
+### 🎨 4. Page Builders (Theme-independent)
 
 These are often more important than themes today.
 
-## 🧠 Dominant builders
+🧠 Dominant builders
 
 * **Elementor**
   → Most widely used builder (~17M sites)
@@ -116,11 +120,11 @@ These are often more important than themes today.
 
 ---
 
-# 🧱 5. Gutenberg / Block-Based Ecosystem (Modern WP)
+### 🧱 5. Gutenberg / Block-Based Ecosystem (Modern WP)
 
 Future direction of WordPress.
 
-## 🧩 Block-first themes & tools
+🧩 Block-first themes & tools
 
 
 * **Twenty Twenty-Four (default)**
@@ -139,7 +143,7 @@ Future direction of WordPress.
 
 ---
 
-# 🧠 Quick Cheat Sheet (Decision Matrix)
+### 🧠 Quick Cheat Sheet (Decision Matrix)
 
 | Use case           | Best choice                     |
 | ------------------ | ------------------------------- |
