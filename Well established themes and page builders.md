@@ -54,7 +54,7 @@ These dominate modern WP (performance + flexibility trend).
 * **OceanWP**
   → WooCommerce-heavy projects
 
-* ** Soledad ** 
+* **Soledad** 
   → Multipurpose, Newspaper, Blog & WooCommerce
   → Works with Elementor
 
