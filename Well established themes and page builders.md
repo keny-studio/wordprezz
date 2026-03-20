@@ -36,7 +36,7 @@ These dominate modern WP (performance + flexibility trend).
 
 
 * **Astra**
-  → ~2.5M+ installs, ~24% share
+  → ~24% market share
   → Works with Elementor / Gutenberg / Spectra
 
 * **GeneratePress**
