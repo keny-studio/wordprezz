@@ -58,6 +58,10 @@ These dominate modern WP (performance + flexibility trend).
   → Multipurpose, Newspaper, Blog & WooCommerce
   → Works with Elementor
 
+* **Listeo** 
+  → directory, classifieds, listings website, multi-vendor marketplace
+
+
 👉 Use when:
 
 * You care about **Core Web Vitals**
